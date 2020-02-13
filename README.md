@@ -12,7 +12,7 @@ Realsense D435i
 | ------------------- | ------------------------------------------------------------ |
 | Driver Drowsiness   | 1. Normal driving 2. Drowsiness driving                      |
 | Driver Gaze-Zone    | 1. To the left 2. To left stack 3. Switch downward 4. To center stack 5. To the right |
-| Driver Hand-Gesture | 1. Wiper 2. MoveUp 3. MoveDown 4. MoveLeft 5. MoveRight 6. PushUp 7. PushDown 8. PushLeft 9. PushRight 10. OK 11. No 12. X 13. V 14. Pinch 15. Expand 16. OneTap |
+| Driver Hand-Gesture | 1. Expand 2. MoveDown 3. MoveLeft 4. MoveRight 5. MoveUp 6. No 7. OK 8. OneTap 9. Pinch 10. PushDown 11. PushLeft 12. PushRight 13. PushUp 14. V 15. Wiper 16. X |
 ## Demo
 
 ## Dataset Release
