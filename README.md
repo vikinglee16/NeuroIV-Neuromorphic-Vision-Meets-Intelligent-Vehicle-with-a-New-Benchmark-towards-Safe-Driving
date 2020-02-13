@@ -8,7 +8,7 @@ Neuromorphic vision sensors such as the Dynamic and Active-pixel Vision Sensor (
 
 ## Description
 | Datasets            | Classes                                                      |
-| ------------------- | ------------------------------------------------------------ |
+| :-------------------: | ----------------------------------------------------------- |
 | Driver Drowsiness   | 1. Normal driving 2. Drowsiness driving                      |
 | Driver Gaze-Zone    | 1. To the left 2. To left stack 3. Switch downward 4. To center stack 5. To the right |
 | Driver Hand-Gesture | 1. Wiper 2. MoveUp 3. MoveDown 4. MoveLeft 5. MoveRight 6. PushUp 7. PushDown 8. PushLeft 9. PushRight 10. OK 11. No 12. X 13. V 14. Pinch 15. Expand 16. OneTap |
